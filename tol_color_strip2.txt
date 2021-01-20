@@ -1,0 +1,106 @@
+DATASET_COLORSTRIP
+#lines starting with a hash are comments and ignored during parsing
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throught this file (except in the SEPARATOR line, which uses space).
+
+#SEPARATOR TAB
+SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL color_strip2
+
+#dataset color (can be changed later)
+COLOR #ff0000
+
+#optional settings
+
+#all other optional settings can be set or changed later in the web interface (under 'Datasets' tab)
+COLOR_BRANCHES 1
+#maximum width
+STRIP_WIDTH 50
+
+#left margin, used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap.
+MARGIN 0
+
+#border width; if set above 0, a black border of specified width (in pixels) will be drawn around the color strip 
+BORDER_WIDTH 2
+BORDER_COLOR #000
+
+#show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+SHOW_INTERNAL 0
+
+#In colored strip charts, each ID is associated to a color. Color can be specified in hexadecimal, RGB or RGBA notation
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#Actual data follows after the "DATA" keyword
+DATA
+#ID1 value1
+#ID2 value2
+mag179 #6EA1C9 COL#6EA1C9
+mag098 #7dcbbb COL#7dcbbb
+mag134 #7dcbbb COL#7dcbbb
+mag135 #7dcbbb COL#7dcbbb
+mag154 #7dcbbb COL#7dcbbb
+mag156 #7dcbbb COL#7dcbbb
+mag158 #7dcbbb COL#7dcbbb
+mag165 #7dcbbb COL#7dcbbb
+mag193 #7dcbbb COL#7dcbbb
+mag009 #B0AAD1 COL#B0AAD1
+mag042 #B0AAD1 COL#B0AAD1
+mag052 #B0AAD1 COL#B0AAD1
+mag063 #B0AAD1 COL#B0AAD1
+mag064 #B0AAD1 COL#B0AAD1
+mag074 #B0AAD1 COL#B0AAD1
+mag076 #B0AAD1 COL#B0AAD1
+mag085 #B0AAD1 COL#B0AAD1
+mag119 #B0AAD1 COL#B0AAD1
+mag124 #B0AAD1 COL#B0AAD1
+mag138 #B0AAD1 COL#B0AAD1
+mag157 #B0AAD1 COL#B0AAD1
+mag185 #B0AAD1 COL#B0AAD1
+mag194 #B0AAD1 COL#B0AAD1
+mag199 #B0AAD1 COL#B0AAD1
+mag201 #B0AAD1 COL#B0AAD1
+mag203 #B0AAD1 COL#B0AAD1
+mag218 #B0AAD1 COL#B0AAD1
+mag003 #FFEC5D COL#FFEC5D
+mag014 #FFEC5D COL#FFEC5D
+mag020 #FFEC5D COL#FFEC5D
+mag037 #FFEC5D COL#FFEC5D
+mag045 #FFEC5D COL#FFEC5D
+mag062 #FFEC5D COL#FFEC5D
+mag071 #FFEC5D COL#FFEC5D
+mag072 #FFEC5D COL#FFEC5D
+mag087 #FFEC5D COL#FFEC5D
+mag088 #FFEC5D COL#FFEC5D
+mag090 #FFEC5D COL#FFEC5D
+mag091 #FFEC5D COL#FFEC5D
+mag097 #FFEC5D COL#FFEC5D
+mag100 #FFEC5D COL#FFEC5D
+mag102 #FFEC5D COL#FFEC5D
+mag104 #FFEC5D COL#FFEC5D
+mag113 #FFEC5D COL#FFEC5D
+mag114 #FFEC5D COL#FFEC5D
+mag117 #FFEC5D COL#FFEC5D
+mag133 #FFEC5D COL#FFEC5D
+mag153 #FFEC5D COL#FFEC5D
+mag160 #FFEC5D COL#FFEC5D
+mag169 #FFEC5D COL#FFEC5D
+mag192 #FFEC5D COL#FFEC5D
+mag198 #FFEC5D COL#FFEC5D
+mag208 #FFEC5D COL#FFEC5D
+mag211 #FFEC5D COL#FFEC5D
+mag213 #FFEC5D COL#FFEC5D
+mag215 #FFEC5D COL#FFEC5D
+mag036 #FBA550 COL#FBA550
+mag083 #FBA550 COL#FBA550
+mag132 #FBA550 COL#FBA550
+mag016 #F7695F COL#F7695F
+mag034 #F7695F COL#F7695F
+mag038 #F7695F COL#F7695F
+mag061 #F7695F COL#F7695F
+mag092 #F7695F COL#F7695F
+mag028 #FAD0CF COL#FAD0CF
+mag058 #FAD0CF COL#FAD0CF
+mag060 #FAD0CF COL#FAD0CF
+mag054 #A5DA56 COL#A5DA56
+
