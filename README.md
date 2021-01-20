@@ -1,0 +1,2 @@
+# GD_Probiotic_treatment
+Probiotic adjuvant methimazole treatment regulated the intestinal microbiome and reduced the relapse rates of GD patients through the gut-thyroid axis
